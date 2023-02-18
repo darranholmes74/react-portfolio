@@ -1,3 +1,6 @@
-# Modify this portfolio
+# Darran Holmes' portfolio
 
-Make it your own! 
+## This is my first React website!
+
+https://darran-holmes-portfolio.netlify.app/
+
