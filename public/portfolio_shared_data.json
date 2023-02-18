@@ -33,24 +33,15 @@
           "class": "devicon-css3-plain",
           "level": "95"
         },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
+      
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "Git",
+          "class": "devicon-git-plain-wordmark",
           "level": "75"
         },
         {
@@ -64,10 +55,26 @@
           "level": "65"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "React",
+          "class": "devicon-react-plain",
           "level": "60"
+        },
+        {
+          "name": "GitHub",
+          "class": "devicon-github-original-wordmark colored",
+          "level": "60"
+        },
+        {
+          "name": "Photoshop",
+          "class": "devicon-photoshop-plain colored",
+          "level": "85"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain colored",
+          "level": "95"
         }
+
       ]
     }
   }
